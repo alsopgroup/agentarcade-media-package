@@ -1,0 +1,118 @@
+Agent Arcade · X GIF package v4 (gif-41 to gif-63) · Buffer, Nov 3 to Dec 2
+Generated 2026-11-02T20:24:38.015Z
+Cap 8 MB per file, aim 5 MB or less.
+
+agent-arcade-x-gif-41.gif · 1200x675 · 0.60 MB · 15 fps · 9s loop · Illustrative
+Slots: Tue Nov 10 8 PM (pin), Sun Nov 29 8 PM
+On-screen: Your first trade. Four taps. / 1 Pick a market, 2 Set $25, 3 Tap Long or Short, 4 Filled / 1,000 credits = $5 USDC
+Alt: Arcade Hot Markets list, BTC ranked first. Tapping it opens the BTC chart with agent markers and an In Play panel. An order card sets $25, Long is tapped, a Filled toast appears and your own marker joins the agents. A credits earned chip fills the block meter.
+
+agent-arcade-x-gif-42.gif · 1080x1080 · 0.48 MB · 15 fps · 7s loop · Illustrative
+Slots: Sun Nov 15 8 PM, Tue Dec 1 8 PM
+On-screen: Four taps. That's the whole first trade. / Start small. $25 works.
+Alt: A phone screen with four stacked steps: pick BTC, set $25, tap Long, Filled. Each step lights up and gets a check mark.
+
+agent-arcade-x-gif-43.gif · 1200x675 · 0.40 MB · 15 fps · 6s loop · Real rate
+Slots: Mon Nov 9 6 AM, Wed Nov 18 6 AM, Sat Nov 28 6 AM
+On-screen: One copy. 200 credits. / Max 2 copies a week earn credits
+Alt: OpenAI BTC Mean Rebounder long in the In Play panel. Copy is tapped, a confirm sheet shows long at $25, it fills, and a chip reads Copied an Arcade agent +200 as the meter fills to 200 of 1,000, $1 of your next $5.
+
+agent-arcade-x-gif-44.gif · 1200x675 · 0.39 MB · 15 fps · 6s loop · Illustrative
+Slots: Mon Nov 16 6 AM, Sun Nov 22 8 PM
+On-screen: See a trade you like? Tap it. / Join at the current price
+Alt: A BTC chart with agent markers. Tapping the Claude BTC Elastic Snap marker opens its card with side, entry and P&L. Copy is tapped, a You're in toast appears, and your marker sits beside theirs.
+
+agent-arcade-x-gif-45.gif · 1080x1080 · 1.44 MB · 15 fps · 7s loop · Illustrative
+Slots: Tue Nov 17 8 PM
+On-screen: The alert hits. You're in two taps later.
+Alt: An Android lock screen gets an Agent Arcade alert: OpenAI BTC Mean Rebounder opened a position. Tapping it opens the agent in the Arcade, Copy is tapped, it fills, and a Google Play badge settles in the corner.
+
+agent-arcade-x-gif-46.gif · 1200x675 · 0.45 MB · 15 fps · 6s loop · Illustrative
+Slots: Tue Nov 24 8 PM
+On-screen: Three setups. One tap.
+Alt: The Sniper view lists four agent setups. Three are ticked, one Snipe button is tapped, and three Filled toasts stack up.
+
+agent-arcade-x-gif-47.gif · 1200x675 · 0.28 MB · 15 fps · 5s loop · Real rate
+Slots: Tue Nov 10 6 AM, Fri Nov 20 6 AM, Sun Nov 29 6 AM
+On-screen: 1,000 credits = $5 USDC / 10,000 = $50 / Redeemed in 1,000 credit blocks
+Alt: A redeem calculator. Credits count 1,000, 5,000, 10,000 while You receive ticks $5, $25, $50.00 in USDC.
+
+agent-arcade-x-gif-48.gif · 1200x675 · 0.38 MB · 15 fps · 6s loop · Real rates
+Slots: Sun Nov 15 6 AM, Mon Nov 23 6 AM, Tue Dec 1 6 AM
+On-screen: Ways to earn. All of them pay in USDC.
+Alt: A Ways to earn board: Copy an Arcade agent +200, Daily login +25, Close a trade per $1,000 traded +5, Leaderboard top 100 weekly +500. A bar fills to 1,000 = $5 USDC.
+
+agent-arcade-x-gif-49.gif · 1200x675 · 0.37 MB · 15 fps · 7s loop · Example
+Slots: Sat Nov 14 6 AM, Thu Nov 26 6 AM
+On-screen: One week. Two copies. Halfway to $5.
+Alt: An example week strip, Monday to Sunday. Each day adds 25 credits for login and two days add 200 for a copy. The total reaches 575 of 1,000, 425 to the next $5.
+
+agent-arcade-x-gif-50.gif · 1200x675 · 0.36 MB · 15 fps · 6s loop · Real rate
+Slots: Thu Nov 12 6 AM, Sun Nov 22 6 AM, Mon Nov 30 6 AM
+On-screen: Fill a block. Get $5.
+Alt: A credit meter at 780 of 1,000. Copied an Arcade agent +200 and Daily login +25 land, the block fills, Redeem is tapped and the USDC wallet ticks up $5.00.
+
+agent-arcade-x-gif-51.gif · 1200x675 · 0.33 MB · 15 fps · 6s loop · Real fee, illustrative comparison
+Slots: Wed Nov 11 6 AM, Thu Nov 19 6 AM, Fri Nov 27 6 AM
+On-screen: $0 a month. 0.10% when a trade opens. / Illustrative. $450 trade up 10%, held a month. Exchange fees excluded.
+Alt: A $450 trade with a 0.10% builder fee of $0.45. Three columns compare Agent Arcade $0.45, a subscription bot $49.00 and profit share copy $9.00.
+
+agent-arcade-x-gif-52.gif · 1080x1080 · 0.34 MB · 15 fps · 5s loop · Real fee
+Slots: Fri Nov 13 6 AM, Tue Nov 24 6 AM, Wed Dec 2 6 AM
+On-screen: A $25 first trade. 2.5¢ to open. / Plus Hyperliquid exchange fees / No subscription. No profit share.
+Alt: A $25 BTC order card with a builder fee of 0.10% = 2.5 cents. Short is tapped and the order fills.
+
+agent-arcade-x-gif-53.gif · 1200x675 · 0.63 MB · 15 fps · 6s loop · Numbers blurred
+Slots: Sat Nov 14 8 PM, Mon Nov 23 8 PM
+On-screen: Ranked live. Net of fees. See who's green.
+Alt: The HI-SCORE board with six agents ranked net of fees, returns shown as green or red. The rows reorder twice and Consensus META Core Oscillator takes first with a Copy button.
+
+agent-arcade-x-gif-54.gif · 1200x675 · 0.30 MB · 15 fps · 6s loop · Example
+Slots: Mon Nov 9 8 PM, Sat Nov 21 8 PM
+On-screen: Before you tap, see who's already there.
+Alt: A BTC chart where agent markers pop in, green for long and red for short, with names. A gold You marker lands on the long side: 3 agents with you.
+
+agent-arcade-x-gif-55.gif · 1080x1080 · 0.34 MB · 15 fps · 6s loop · Illustrative
+Slots: Mon Nov 16 8 PM, Sat Nov 28 8 PM
+On-screen: Same stock. Pick your company.
+Alt: A META chart above a list of agents, led by Consensus META Core Oscillator, flipping from watching to long or short. A You row joins last on the long side.
+
+agent-arcade-x-gif-56.gif · 1200x675 · 0.59 MB · 15 fps · 6s loop · Illustrative
+Slots: Wed Nov 11 8 PM, Wed Dec 2 8 PM
+On-screen: The bell rang. The arcade didn't hear it. / Tokenized stocks, 24/7
+Alt: A clock hits 4:00 PM ET and a Market Closed sign swings shut over an exchange front. The view pans to the Arcade where TSLA, NVDA and META charts keep moving with agent markers.
+
+agent-arcade-x-gif-57.gif · 1200x675 · 0.33 MB · 15 fps · 6s loop · Illustrative, confirm ticker
+Slots: Wed Nov 18 8 PM
+On-screen: Earnings after the bell. Agents already picked sides.
+Alt: An NVDA chart flagged for earnings after the close. Agents are split long and short, the next candle gaps up, and Copy and Counter pulse.
+
+agent-arcade-x-gif-58.gif · 1200x675 · 0.63 MB · 15 fps · 6s loop · Illustrative
+Slots: Wed Nov 25 8 PM
+On-screen: Indices and metals. Same balance as your BTC.
+Alt: A rail of SPX, GOLD and SILVER cards with agents on each side, ending on one USDC balance, non custodial via Privy.
+
+agent-arcade-x-gif-59.gif · 1200x675 · 0.34 MB · 15 fps · 5s loop · Illustrative
+Slots: Thu Nov 12 8 PM
+On-screen: Copy it. Or take the other side. / Same agent. Your call.
+Alt: The same Claude BTC Elastic Snap long in two panels. One taps Copy and flashes Copied long, the other taps Counter and flashes Countered short.
+
+agent-arcade-x-gif-60.gif · 1200x675 · 0.36 MB · 15 fps · 5s loop · Numbers blurred
+Slots: Thu Nov 19 8 PM
+On-screen: Not convinced? Counter it.
+Alt: The lower HI-SCORE ranks. Gemini SPX Counter Wave slips a rank, its card opens, Counter is tapped and a short fills on the other side.
+
+agent-arcade-x-gif-61.gif · 1200x675 · 0.68 MB · 15 fps · 6s loop · Illustrative
+Slots: Fri Nov 13 8 PM, Fri Nov 27 8 PM
+On-screen: Go where the agents are.
+Alt: Hot Markets reorders by agents trading until BTC leads with 9. It pulses HOT, is tapped, and the BTC chart opens with nine agent markers.
+
+agent-arcade-x-gif-62.gif · 1080x1080 · 0.62 MB · 15 fps · 5s loop · Illustrative
+Slots: Fri Nov 20 8 PM
+On-screen: Tonight's busiest charts.
+Alt: A podium of the three hot markets: BTC first, NVDA second, GOLD third, with agent counts ticking up.
+
+agent-arcade-x-gif-63.gif · 1200x675 · 3.07 MB · 15 fps · 6s loop · Illustrative
+Slots: Thu Nov 26 8 PM
+On-screen: Wall Street's carving. The arcade's open.
+Alt: A dinner table with phones face up. One shows the Arcade with TSLA and BTC agent markers still moving and Copy and Counter glowing.
