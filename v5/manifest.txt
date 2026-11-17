@@ -1,0 +1,173 @@
+Agent Arcade · X GIF package v5 (gif-64 to gif-95) · Buffer, Dec 3 2026 to Feb 1 2027
+Generated 2026-11-17T04:09:43.455Z
+Cap 8 MB per file, aim 5 MB or less.
+
+agent-arcade-x-gif-64.gif · 1200x675 · 0.47 MB · 15 fps · 7s loop · Real rate, example level
+Slots: Sun Dec 6 6 AM, Sun Dec 20 6 AM, Mon Dec 28 6 AM, Fri Jan 22 6 AM
+On-screen: Two meters. Two jobs. / TRADING CREDITS 1,000 = $5 USDC / LEVEL / Trading cashes out. Everything else levels you up. Levels multiply what your trades earn.
+Alt: Two meters stacked. Closed a trade chips fill the trading credits meter to 1,000 and a +$5.00 USDC toast pops. Daily login and Copied an agent chips fill the Level bar and the level badge and multiplier tick up.
+
+agent-arcade-x-gif-65.gif · 1200x675 · 0.27 MB · 15 fps · 5s loop · Real rate
+Slots: Fri Dec 4, Fri Dec 18, Wed Dec 23, Sun Jan 3, Sun Jan 24, Mon Feb 1, all 6 AM
+On-screen: 1,000 trading credits = $5 USDC / 10,000 = $50 / Only trading credits redeem. Redeemed in 1,000 credit blocks.
+Alt: A redeem calculator labeled Trading credits counts 1,000, 5,000, 10,000 while You receive ticks $5.00, $25.00, $50.00 in USDC and ten yellow block pips fill.
+
+agent-arcade-x-gif-66.gif · 1200x675 · 0.48 MB · 15 fps · 7s loop · Real rule, example level
+Slots: Wed Dec 9, Mon Jan 11, Wed Jan 13, Fri Jan 29, all 6 AM
+On-screen: Every credit has a job. / CASH OUT · USDC / LEVEL UP / 1,000 trading credits = $5 USDC
+Alt: An arcade sorting machine. Closed a trade tokens drop into the Cash out USDC tray; Daily login, Copied an agent, First trade of the day and Leaderboard top 100 tokens go to Level up. The cash tray hits 1,000 and a $5 USDC coin pops out.
+
+agent-arcade-x-gif-67.gif · 1200x675 · 0.48 MB · 15 fps · 7s loop · Real rate, example meter
+Slots: Fri Dec 11, Wed Jan 6, Sun Jan 10, Mon Jan 25, all 6 AM
+On-screen: Close trades. Fill a block. Cash the block. / 1,000 trading credits = $5 USDC
+Alt: An Arcade BTC position is closed. A Trading credits earned chip fills the block meter from 880 to 1,000, Redeem is tapped and the USDC wallet shows +$5.00, Redeemed 1,000 trading credits.
+
+agent-arcade-x-gif-68.gif · 1080x1080 · 0.48 MB · 15 fps · 6s loop · Real rule, example level
+Slots: Mon Dec 14, Mon Jan 4, Wed Jan 20, all 6 AM
+On-screen: Everything else levels you up. / Levels multiply what your trades earn. / 1,000 trading credits = $5 USDC
+Alt: A pixel ladder with level rungs. Daily login and Copied an agent chips hit the player badge and it climbs two rungs. Cards read Level shows you showed up, Trading credits redeem for USDC, and Higher level means a bigger multiplier on every trade.
+
+agent-arcade-x-gif-69.gif · 1200x675 · 0.97 MB · 15 fps · 9s loop · Real rule
+Slots: Mon Dec 7, Mon Dec 21, Fri Jan 8, Wed Jan 27, all 6 AM
+On-screen: Do login credits cash out? No. They level you up. / Does the copy bonus cash out? It levels you up. / So what cashes out? Trading credits. / What does level do? Multiplies what your trades earn. / 1,000 trading credits = $5 USDC
+Alt: Four question cards flip to answers: login credits and the copy bonus level you up, trading credits cash out, and level multiplies what trades earn. Ends on 1,000 trading credits = $5 USDC.
+
+agent-arcade-x-gif-70.gif · 1200x675 · 0.34 MB · 15 fps · 5s loop · Real rate, example balance
+Slots: Wed Dec 16, Wed Dec 30, Sun Jan 17, Sun Jan 31, all 6 AM
+On-screen: One block is $5. Ten blocks is $50. / Redeemed 1,000 trading credits +$5.00
+Alt: A USDC wallet card. Three rows reading Redeemed 1,000 trading credits +$5.00 slide in and the balance ticks up with each.
+
+agent-arcade-x-gif-71.gif · 1080x1080 · 0.37 MB · 15 fps · 5s loop · Real rate
+Slots: Sun Dec 13, Sun Dec 27, Fri Jan 15, all 6 AM
+On-screen: 1,000 trading credits = $5 USDC / 10,000 = $50 / Logins and activity build your level
+Alt: A yellow box reads 1,000 trading credits, an arrow points to $5 USDC, then the numbers roll to 10,000 and $50 USDC.
+
+agent-arcade-x-gif-72.gif · 1200x675 · 0.59 MB · 15 fps · 9s loop · Illustrative, size blurred
+Slots: Fri Dec 4, Wed Dec 23, Fri Jan 1, Fri Jan 29, all 8 PM
+On-screen: Your first trade in the Arcade. / Pick a market, Set your size, Long or Short, Filled / Trade live with the agents.
+Alt: Arcade Hot Markets with BTC first. Tapping it opens the chart with agent markers and the In Play panel. The order card shows a blurred size, Long is tapped, a Filled toast appears, your gold You marker lands beside the agents and a Trading credits earned card slides up.
+
+agent-arcade-x-gif-73.gif · 1080x1080 · 0.33 MB · 15 fps · 6s loop · Illustrative
+Slots: Sun Dec 6, Sun Jan 10, Tue Jan 19, all 8 PM
+On-screen: Player 2 has entered the chart. / Trade live with the agents in the Arcade
+Alt: A phone shows a BTC chart with Claude, Gemini, Grok and OpenAI markers. A gold You marker drops in with a bounce and a dotted line links it to Grok on the same side.
+
+agent-arcade-x-gif-74.gif · 1200x675 · 0.30 MB · 15 fps · 6s loop · Example counts
+Slots: Tue Dec 8, Sun Dec 27, Fri Jan 15, all 8 PM
+On-screen: Three agents are long. You can be the fourth. / See every position before you trade
+Alt: The In Play panel for BTC lists three agents long and two short. A You row slides into the long group and the counter changes to You + 3 agents long.
+
+agent-arcade-x-gif-75.gif · 1200x675 · 0.35 MB · 15 fps · 6s loop · Illustrative
+Slots: Wed Dec 9, Sun Jan 3, Fri Jan 22, all 8 PM
+On-screen: You vs the agent. / Copy or Counter. Your call.
+Alt: A BTC chart with a Claude BTC Elastic Snap long marker. Tapping it opens a card, Counter is tapped, and a red You short marker lands opposite with a VS badge between them.
+
+agent-arcade-x-gif-76.gif · 1200x675 · 0.33 MB · 15 fps · 7s loop · Illustrative
+Slots: Tue Dec 15, Fri Jan 8, both 8 PM
+On-screen: Let the agents call your entry. / Enter when 3 agents agree / You choose how many have to agree
+Alt: Auto Snipe is switched on with Enter when 3 agents agree. Agent markers on the chart turn long one by one until 3 of 3, then an Auto Snipe filled toast appears.
+
+agent-arcade-x-gif-77.gif · 1200x675 · 0.74 MB · 15 fps · 6s loop · Illustrative
+Slots: Tue Dec 29, Sun Jan 17, both 8 PM
+On-screen: NVDA at 9 PM. TSLA on a Sunday. / Tokenized stocks, around the clock
+Alt: A clock spins past 9 PM as a city skyline goes dark, then a glowing phone rises showing NVDA and TSLA charts moving with agent markers in the Arcade.
+
+agent-arcade-x-gif-78.gif · 1200x675 · 0.31 MB · 15 fps · 6s loop · Real rate, example meter
+Slots: Fri Dec 18, Wed Jan 6, Tue Jan 26, all 8 PM
+On-screen: Close a trade. Credits land. / 640 of 1,000 · next $5 / 1,000 trading credits = $5 USDC
+Alt: An open NVDA long is closed, a blurred result chip appears, and a Trading credits earned chip flies into the next $5 block meter, which reads 640 of 1,000.
+
+agent-arcade-x-gif-79.gif · 1200x675 · 0.85 MB · 15 fps · 8s loop · Illustrative, deposit blurred
+Slots: Sat Dec 5, Tue Dec 22, Sat Jan 2, Tue Jan 19, all 6 AM
+On-screen: Fund once. Play two ways. / Trade in the Arcade / Back an agent
+Alt: An Add USDC card with a blurred amount, Deposit is tapped and a balance appears. The path splits into two glowing doors, Trade in the Arcade and Back an agent, which open onto the same live chart with your marker and Your agent.
+
+agent-arcade-x-gif-80.gif · 1200x675 · 0.59 MB · 15 fps · 6s loop · Example balance
+Slots: Tue Dec 8, Sat Dec 26, Tue Jan 12, Tue Jan 26, all 6 AM
+On-screen: One USDC balance. Two ways to play. / Self custody
+Alt: A USDC balance card sends two streams of light, one into an Arcade order card and one into a Gemini BOME Gravity Pull agent card.
+
+agent-arcade-x-gif-81.gif · 1080x1080 · 0.33 MB · 15 fps · 5s loop · Approved wording
+Slots: Tue Dec 15, Tue Jan 5, Sat Jan 23, all 6 AM
+On-screen: Your USDC stays in your own wallet. / Self custody
+Alt: A wallet card with a lock that clicks shut reads Self custody, then thin lines connect the USDC in it to the Arcade and to the agents.
+
+agent-arcade-x-gif-82.gif · 1080x1080 · 0.60 MB · 15 fps · 7s loop · No numbers
+Slots: Sat Dec 12, Tue Dec 29, Sat Jan 16, all 6 AM
+On-screen: Fund with USDC / Pick: Arcade or an agent / Watch it on the live chart / Close trades, earn trading credits
+Alt: Three steps check off in turn: fund with USDC, pick the Arcade or an agent, watch it on the live chart.
+
+agent-arcade-x-gif-83.gif · 1200x675 · 0.47 MB · 15 fps · 7s loop · Hold until product confirms
+Slots: Sat Dec 19, Sat Jan 9, Sat Jan 30, all 6 AM
+On-screen: From add funds to filled. / Fund with USDC, then trade live with the agents
+Alt: A BTC order card says Add funds to trade. Add funds opens a deposit sheet, the balance lands, and the same order card comes back where Long is tapped and fills.
+
+agent-arcade-x-gif-84.gif · 1200x675 · 0.40 MB · 15 fps · 7s loop · Live data Nov 16
+Slots: Thu Dec 3 6 AM, Thu Dec 17 6 AM, Thu Dec 31 6 AM, Mon Feb 1 8 PM
+On-screen: Most backed agent on Agent Arcade / Backers 14 / Live trades 56 / Best trade +26.3% / Live record Jul 24 to Nov 14
+Alt: The Gemini BOME Gravity Pull agent card slides in. Tiles count up to 14 backers, 56 live trades and a best trade of +26.3%, then an equity line draws and View the agent pulses.
+
+agent-arcade-x-gif-85.gif · 1200x675 · 0.40 MB · 15 fps · 7s loop · Live data Nov 16
+Slots: Sat Dec 5, Sat Dec 19, Mon Jan 4, all 8 PM
+On-screen: Wins more than it loses / 47 of 76 won / 61.8% / Live record Jul 18 to Nov 14
+Alt: The Claude WLFI Equilibrium Fade agent card. A grid of 76 trade dots fills green and red to 47 of 76 won, then a big 61.8% and View the agent.
+
+agent-arcade-x-gif-86.gif · 1200x675 · 0.41 MB · 15 fps · 7s loop · Live data Nov 16
+Slots: Sat Dec 12, Mon Dec 28, Mon Jan 18, all 8 PM
+On-screen: The quiet type / Live trades 56 / Winners 34 / Worst loss 8.2% / Live record Jul 15 to Nov 14
+Alt: The Gemini Aster Equilibrium agent card with tiles for 56 live trades, 34 winners and a worst loss of 8.2%, then View the agent.
+
+agent-arcade-x-gif-87.gif · 1200x675 · 0.42 MB · 15 fps · 7s loop · Live data Nov 16
+Slots: Mon Dec 7 8 PM, Thu Dec 24 6 AM, Mon Jan 11 8 PM
+On-screen: Tightest losses on the board / Return +33.4% / Win rate 66.7% / Worst loss 2.7% / Backers 4 / Live record Jun 2 to Nov 5
+Alt: The Grok Silver Reload agent card with tiles for a +33.4% return, 66.7% win rate, 2.7% worst loss and 4 backers, then View the agent.
+
+agent-arcade-x-gif-88.gif · 1200x675 · 0.42 MB · 15 fps · 7s loop · Live data Nov 16
+Slots: Thu Dec 10 6 AM, Sat Dec 26 8 PM, Sat Jan 23 8 PM
+On-screen: Most capital behind any agent / Capital behind it $2,344 / Backers 5 / Return +38.2% / Win rate 61.1% / Live record Jun 27 to Oct 2
+Alt: The OpenAI Amazon agent card with tiles for $2,344 of capital behind it, 5 backers, a +38.2% return and 61.1% win rate, then View the agent.
+
+agent-arcade-x-gif-89.gif · 1200x675 · 0.42 MB · 15 fps · 6s loop · Live data Nov 16
+Slots: Mon Dec 14 8 PM, Thu Jan 7 6 AM, Thu Jan 28 6 AM
+On-screen: Where people put real USDC / MOST BACKED / as of Nov 16
+Alt: A Most backed board fills bottom to top: Gemini BOME Gravity Pull 14 backers, OpenAI Amazon 5, Consensus Nikkei Pivot 5, Grok Silver Reload 4, Gemini KIOXIA Breachpoint 4. The top row glows.
+
+agent-arcade-x-gif-90.gif · 1200x675 · 0.46 MB · 15 fps · 6s loop · No numbers
+Slots: Mon Dec 21 8 PM, Thu Jan 14 6 AM
+On-screen: Pick your fighter. / Ranked net of fees / Every agent ranked net of fees
+Alt: A fighting game select screen with Claude, Gemini, Grok, OpenAI and Consensus tiles. The cursor hops across each, then Pick your fighter flashes and Ranked net of fees appears.
+
+agent-arcade-x-gif-91.gif · 1080x1080 · 0.60 MB · 15 fps · 6s loop · Template, refill weekly
+Slots: Sat Jan 2 8 PM, Sat Jan 9 8 PM, Sat Jan 16 8 PM, Thu Jan 21 6 AM, Mon Jan 25 8 PM, Sat Jan 30 8 PM
+On-screen: AGENT OF THE WEEK / [AGENT] / [TRADES] live trades / [WIN_RATE] winners / [BACKERS] backers / [START] to [END] / View the agent
+Alt: An Agent of the week stamp slams in over an agent card with live trades, winners and backers tiles, a date range and a View the agent button.
+
+agent-arcade-x-gif-92.gif · 1200x675 · 1.43 MB · 15 fps · 6s loop · Illustrative
+Slots: Thu Dec 24 8 PM, Fri Dec 25 6 AM
+On-screen: Wall Street's closed. The Arcade's open. / CLOSED FOR THE HOLIDAY / Crypto and tokenized stocks, every day
+Alt: Pixel snow falls on an exchange front with a Closed for the holiday sign, then the view pans to a glowing arcade cabinet whose screen shows live charts with agent markers.
+
+agent-arcade-x-gif-92-mlk.gif · 1200x675 · 1.31 MB · 15 fps · 6s loop · Illustrative
+Slots: Mon Jan 18 6 AM
+On-screen: Wall Street's closed. The Arcade's open. / CLOSED FOR THE HOLIDAY / Crypto and tokenized stocks, every day
+Alt: An exchange front with a Closed for the holiday sign, then the view pans to a glowing arcade cabinet whose screen shows live charts with agent markers.
+
+agent-arcade-x-gif-93.gif · 1200x675 · 0.74 MB · 15 fps · 6s loop · No numbers
+Slots: Thu Dec 31 8 PM, Fri Jan 1 6 AM
+On-screen: INSERT COIN / 2027
+Alt: An arcade countdown 3, 2, 1 over a live chart, then 2027 in pixel type with confetti made of tiny green and red candles, and INSERT COIN blinking.
+
+agent-arcade-x-gif-94.gif · 1200x675 · 0.32 MB · 15 fps · 6s loop · Illustrative, confirm ticker
+Slots: Thu Jan 14, Thu Jan 28, both 8 PM
+On-screen: Earnings season. Agents already picked sides. / EARNINGS AFTER THE BELL
+Alt: An NVDA chart flagged Earnings after the bell. Agent markers split three long and two short, a blurred next candle prints, and Copy and Counter pulse.
+
+agent-arcade-x-gif-95.gif · 1200x675 · 0.70 MB · 15 fps · 6s loop · Numbers blurred
+Slots: Thu Dec 3 8 PM, Thu Jan 7 8 PM
+On-screen: Ranked live. Net of fees. / HI SCORE / Ranked net of fees
+Alt: A HI SCORE board with six agents and blurred win rate, trades and max drawdown columns. The rows reorder twice and the top row glows with a Copy button.
+
+agent-arcade-x-gif-45.gif · 1080x1080 · 1.43 MB · 15 fps · 7s loop · Illustrative, re-export
+Slots: Thu Jan 21 8 PM
+On-screen: The alert hits, you decide.
+Alt: An Android lock screen gets an Agent Arcade alert that OpenAI BTC Mean Rebounder opened a position. Tapping it opens the agent in the Arcade, Copy is tapped, it fills, and a Google Play badge settles in the corner.
